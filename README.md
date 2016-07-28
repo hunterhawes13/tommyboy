@@ -69,3 +69,7 @@ This project is licensed under the terms of the MIT license.
 ## Warning
 
 This should not be used in production. It is for demonstration purposes only.
+
+## View live version
+
+[On Codepen](http://codepen.io/hunterhawes13/pen/Lkmrqd)
