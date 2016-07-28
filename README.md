@@ -60,7 +60,7 @@ with help from
 
 Tim Toupin
 github: [Tim Toupin](https://github.com/tim2pin)
-twitter [@tim2pin](https//twitter.com/tim2pin)
+twitter [@tim2pin](https//twitter.com/952pin)
 
 ## License
 
